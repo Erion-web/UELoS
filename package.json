@@ -1,0 +1,10 @@
+{
+  "name": "uelos",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "src/demo.js",
+  "scripts": {
+    "start": "node src/demo.js"
+  }
+}
+
